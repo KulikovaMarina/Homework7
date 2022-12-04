@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\Homework7\Task47\bin\Debug\net7.0\Task47.exe
+C:\Users\Marina\Desktop\Homework7\Task47\bin\Debug\net7.0\Task47.deps.json
+C:\Users\Marina\Desktop\Homework7\Task47\bin\Debug\net7.0\Task47.runtimeconfig.json
+C:\Users\Marina\Desktop\Homework7\Task47\bin\Debug\net7.0\Task47.dll
+C:\Users\Marina\Desktop\Homework7\Task47\bin\Debug\net7.0\Task47.pdb
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.AssemblyInfo.cs
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.dll
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\refint\Task47.dll
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.pdb
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\Task47.genruntimeconfig.cache
+C:\Users\Marina\Desktop\Homework7\Task47\obj\Debug\net7.0\ref\Task47.dll
