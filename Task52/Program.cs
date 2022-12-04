@@ -13,13 +13,13 @@ int[,] matrix = new int[rows, columns];
 
 for (int i = 0; i < matrix.GetLength(0); i++)
 {
-for (int j = 0; j < matrix.GetLength(1); j++)
-{
-matrix[i, j] = new Random().Next(0, 10);
-Console.Write(matrix[i, j] + " ");
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    {
+        matrix[i, j] = new Random().Next(0, 10);
+        Console.Write(matrix[i, j] + " ");
 
-}
-Console.WriteLine();
+    }
+    Console.WriteLine();
 }
 Console.WriteLine("_______________");
 
@@ -27,11 +27,11 @@ double sum = 0;
 
 for (int j = 0; j < matrix.GetLength(1); j++)
 {
-for (int i = 0; i < matrix.GetLength(0); i++)
-{
-sum += matrix[i, j];
-}
-double average = Math.Round(sum/matrix.GetLength(0), 2);
-sum = 0;
-Console.Write(average+ " ");
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        sum += matrix[i, j];
+    }
+    double average = Math.Round(sum / matrix.GetLength(0), 2);
+    sum = 0;
+    Console.Write(average + " ");
 }
